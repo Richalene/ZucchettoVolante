@@ -1,6 +1,6 @@
 Zucchetto Volante
 
-*A Flappy Bird-inspired game set in the dramatic world of "Conclave 2024" and His Holiness, Pope Francis*
+*A Flappy Bird-inspired game that is currently in development set in the dramatic world of "Conclave 2024" and His Holiness, Pope Francis*
 
 About the Game
 Zucchetto Volante ("Flying Zucchetto") is a fun, challenging arcade game where you take control of a cardinal's zucchetto (skullcap) as it soars through the halls of the Vatican. Dodge obstacles, collect votes, and survive as long as you can in this high-stakes, papal-themed adventure!
@@ -34,6 +34,6 @@ Developed by: miilancholy
 Inspired by: Conclave 2024 (the movie) & Flappy Bird
 
 Support & Feedback
-Found a bug? Have suggestions? Contact us at ....@example.com.
+Found a bug? Have suggestions? Message us at (https://x.com/miilancholy)
 
 May the Holy Spirit guide your zucchetto to victory! 🕊️🎩
