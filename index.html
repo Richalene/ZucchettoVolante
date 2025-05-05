@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Zucchetto Volante</title>
+  <link rel="stylesheet" href="style2.css" />
+</head>
+<body>
+  <img class="background" src="assets/bg.png" alt="Background">
+  <img class="bird" src="assets/bird.png" alt="Bird">
+  <div class="message">Press Enter or Pinch to Start</div>
+  <div class="score_title">Score : <span class="score_val">0</span></div>
+
+  
+  <!-- Hand Tracking Elements -->
+  <div class="video-container">
+    <div class="hand-status">Hand tracking loading...</div>
+    <video id="video-feed" autoplay playsinline muted></video>
+    <button id="toggle-camera">Toggle Camera</button>
+  </div>
+  <!-- TensorFlow Libraries -->
+  <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs-core"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs-converter"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs-backend-webgl"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@tensorflow-models/handpose"></script>
+  
+  <!-- Main Game Script -->
+  <script src="camscript.js"></script>
+</body>
+</html>
